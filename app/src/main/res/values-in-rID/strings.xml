@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="email">Emaiil</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="not_registered">Belum punya akun?</string>
+    <string name="register_here"><u>Daftar disini</u></string>
+    <string name="title_login_page">Masuk ke akun Anda</string>
+    <string name="title_register_page">Buat akun Anda</string>
+    <string name="error_email">Masukkan Email Anda dengan benar</string>
+    <string name="error_username">Masukan Nama Anda dengan benar</string>
+    <string name="password_dont_match_alert">Password tidak tepat</string>
+    <string name="error_password_length">Panjang password harus lebih dari 6 karakter</string>
+    <string name="name_alert">Nama minimal 2 karakter</string>
+    <string name="email_invalid">Email salah</string>
+    <string name="check_input">Periksa input Anda kembali</string>
+    <string name="preview">Preview</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="add_description">Tambahkan Deskripsi</string>
+    <string name="input_image_first">Masukkan Gambar Anda Terlebih Dahulu!</string>
+    <string name="failed_instance">Gagal instance</string>
+    <string name="viewing_image">Melihat Gambar</string>
+    <string name="switching_camera">Ganti Kamera</string>
+    <string name="failed_take_a_photo">Gagal mengambil foto</string>
+    <string name="failed_to_open_camera">Gagal membuka kamera</string>
+    <string name="choose_a_image">Pilih gambar</string>
+    <string name="must_be_filled">Harus diisi</string>
+    <string name="img_story">Gambar Cerita</string>
+    <string name="created_add">Dibuat pada %1$s,</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="not_found">Maaf tidak ditemukan</string>
+    <string name="click_to_add_story">Klik untuk menambahkan cerita</string>
+    <string name="confirmation">Konfirmasi</string>
+    <string name="you_sure">Apa Anda yakin?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="login_image">gambar Login</string>
+
+</resources>
